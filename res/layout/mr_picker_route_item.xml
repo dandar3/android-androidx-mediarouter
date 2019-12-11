@@ -17,19 +17,32 @@
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:layout_width="match_parent"
-              android:layout_height="48dp"
-              android:paddingStart="16dp"
-              android:paddingEnd="16dp"
+              android:layout_height="@dimen/mr_dynamic_dialog_row_height"
+              android:paddingLeft="16dp"
+              android:paddingRight="16dp"
               android:gravity="center_vertical"
               android:orientation="horizontal"
               android:background="?attr/selectableItemBackground">
-    <ImageView android:id="@+id/mr_picker_route_icon"
-               android:layout_width="24dp"
-               android:layout_height="24dp" />
+    <FrameLayout android:layout_width="24dp"
+                 android:layout_height="24dp">
+        <ImageView android:id="@+id/mr_picker_route_icon"
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:scaleType="fitCenter" />
+        <ProgressBar android:id="@+id/mr_picker_route_progress_bar"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     android:indeterminate="true"
+                     android:visibility="invisible"
+                     style="?android:attr/progressBarStyle" />
+    </FrameLayout>
     <TextView android:id="@+id/mr_picker_route_name"
-              android:layout_width="wrap_content"
+              android:layout_width="0dp"
               android:layout_height="wrap_content"
-              android:paddingLeft="8dp"
-              android:textSize="12sp"
-              android:textColor="#25272B" />
+              android:layout_weight="1"
+              android:layout_marginLeft="16dp"
+              android:layout_marginStart="16dp"
+              android:gravity="start"
+              android:textAlignment="viewStart"
+              android:textAppearance="?attr/mediaRouteBodyTextAppearance" />
 </LinearLayout>

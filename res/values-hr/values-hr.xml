@@ -4,6 +4,7 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"Gumb za emitiranje. Povezan"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Gumb za emitiranje. Povezivanje"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Gumb za emitiranje. Veza prekinuta"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"Informacije nisu dostupne"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"Traženje uređaja"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"Emitiranje na"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"Naslovnica albuma"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"Zaustavi"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Zaustavi emitiranje"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"Klizač za glasnoću"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"Dodavanje uređaja"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"Reprodukcija u grupi"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"Sustav"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"Uređaji"</string>
 </resources>

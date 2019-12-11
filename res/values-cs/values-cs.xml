@@ -4,6 +4,7 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"Tlačítko odesílání. Připojeno"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Tlačítko odesílání. Připojování"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Tlačítko odesílání. Odpojeno"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"Nejsou k dispozici žádné informace"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"Hledání zařízení"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"Odeslat do zařízení"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"Obal alba"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"Zastavit"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Zastavit odesílání"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"Posuvník hlasitosti"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"Přidání zařízení"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"Přehrávání ve skupině"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"Systém"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"Zařízení"</string>
 </resources>

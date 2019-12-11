@@ -4,6 +4,7 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"Kitufe cha kutuma. Kimeunganishwa"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Kitufe cha kutuma. Kinaunganishwa"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Kitufe cha kutuma. Kimeondolewa"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"Hakuna maelezo yaliyopatikana"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"Inatafuta vifaa"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"Tuma kwenye"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"Sanaa ya albamu"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"Acha kucheza"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Acha kutuma"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"Kidhibiti cha sauti"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"Ongeza kifaa"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"Cheza kwenye kikundi"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"Mfumo"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"Vifaa"</string>
 </resources>

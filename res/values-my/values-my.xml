@@ -4,6 +4,7 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"ကာစ်ခလုတ်။ ချိတ်ဆက်ထားသည်"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"ကာစ်ခလုတ်။ ချိတ်ဆက်နေသည်"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"ကာစ်ခလုတ်။ ချိတ်ဆက်မထားပါ"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"အချက်အလက် မရရှိနိုင်ပါ"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"စက်များကို ရှာနေသည်"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"ဤစက်သို့ ကာစ်လုပ်ရန်"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"အယ်လ်ဘမ်ပုံ"</string>
@@ -17,8 +18,10 @@
     <string msgid="4701315813294065305" name="mr_controller_pause">"ခဏရပ်ရန်"</string>
     <string msgid="4443315438268112801" name="mr_controller_play">"ကစားရန်"</string>
     <string msgid="5106056093749454009" name="mr_controller_stop">"ရပ်ရန်"</string>
-    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"ကာစ်လုပ်ခြင်းကို ရပ်ရန်"</string>
+    <string msgid="7617024847862349259" name="mr_controller_stop_casting">"ကာစ် ရပ်ရန်"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"အသံအတိုးအကျယ်ချိန်သည့် ရွှေ့တုံး"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"စက်ပစ္စည်း ထည့်ခြင်း"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"အုပ်စုလိုက် ဖွင့်ခြင်း"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"စနစ်"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"စက်များ"</string>
 </resources>

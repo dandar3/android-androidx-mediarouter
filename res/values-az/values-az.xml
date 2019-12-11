@@ -4,6 +4,7 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"Yayım düyməsi. Qoşuldu"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Yayım düyməsi. Qoşulur"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Yayım düyməsi. Bağlantı kəsildi"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"Əlçatan məlumat yoxdur"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"Cihazlar axtarılır"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"Bura yayımlayın"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"Albom incəsənəti"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"Dayandırın"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Yayımı dayandırın"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"Səs ayarlayıcısı"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"Cihaz əlavə edin"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"Qrupda oxudun"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"Sistem"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"Cihazlar"</string>
 </resources>

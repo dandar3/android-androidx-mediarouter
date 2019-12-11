@@ -4,8 +4,9 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"Кнопка трансляції. Під’єднано"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"Кнопка трансляції. Під’єднання"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"Кнопка трансляції. Від’єднано"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"Немає інформації"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"Пошук пристроїв"</string>
-    <string msgid="7548226170787476564" name="mr_chooser_title">"Транслювати на пристрій"</string>
+    <string msgid="7548226170787476564" name="mr_chooser_title">"Транслювати на…"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"Обкладинка альбому"</string>
     <string msgid="5286734709674025661" name="mr_controller_casting_screen">"Трансляція екрана"</string>
     <string msgid="5468775621814500662" name="mr_controller_close_description">"Закрити"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"Зупинити"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"Припинити трансляцію"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"Повзунок гучності"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"Додати пристрій"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"Увімкнути на групі пристроїв"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"Система"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"Пристрої"</string>
 </resources>

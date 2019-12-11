@@ -4,6 +4,7 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"அலைபரப்பும் பட்டன். இணைக்கப்பட்டது"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"அலைபரப்பும் பட்டன். இணைக்கிறது"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"அலைபரப்பும் பட்டன். துண்டிக்கப்பட்டது"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"தகவல் எதுவுமில்லை"</string>
     <string msgid="5504553798429329689" name="mr_chooser_searching">"சாதனங்களைத் தேடுகிறது"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"இதற்கு அலைபரப்பு:"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"ஆல்பம் ஆர்ட்"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"நிறுத்துவதற்கான பட்டன்"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"அலைபரப்புவதை நிறுத்து"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"ஒலியளவு ஸ்லைடர்"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"சாதனத்தைச் சேர்த்தல்"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"குழுவில் இயக்கு"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"சிஸ்டம்"</string>
     <string msgid="8236416097133080726" name="mr_user_route_category_name">"சாதனங்கள்"</string>
 </resources>

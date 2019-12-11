@@ -4,7 +4,8 @@
     <string msgid="1350095112462806159" name="mr_cast_button_connected">"キャスト アイコン。接続済み"</string>
     <string msgid="8959304318293841992" name="mr_cast_button_connecting">"キャスト アイコン。接続中"</string>
     <string msgid="5501231066847739632" name="mr_cast_button_disconnected">"キャスト アイコン。接続解除済み"</string>
-    <string msgid="5504553798429329689" name="mr_chooser_searching">"端末を検出しています"</string>
+    <string msgid="6167045754274068030" name="mr_cast_dialog_title_view_placeholder">"情報がありません"</string>
+    <string msgid="5504553798429329689" name="mr_chooser_searching">"デバイスを検出しています"</string>
     <string msgid="7548226170787476564" name="mr_chooser_title">"キャスト先"</string>
     <string msgid="5813284753012893250" name="mr_controller_album_art">"アルバムアート"</string>
     <string msgid="5286734709674025661" name="mr_controller_casting_screen">"画面をキャストしています"</string>
@@ -19,6 +20,8 @@
     <string msgid="5106056093749454009" name="mr_controller_stop">"停止"</string>
     <string msgid="7617024847862349259" name="mr_controller_stop_casting">"キャストを停止"</string>
     <string msgid="691656961160498512" name="mr_controller_volume_slider">"音量スライダー"</string>
+    <string msgid="470815817763403488" name="mr_dialog_groupable_header">"デバイスの追加"</string>
+    <string msgid="8242946697267839296" name="mr_dialog_transferable_header">"グループで再生"</string>
     <string msgid="3117964881088969586" name="mr_system_route_name">"システム"</string>
-    <string msgid="8236416097133080726" name="mr_user_route_category_name">"端末"</string>
+    <string msgid="8236416097133080726" name="mr_user_route_category_name">"デバイス"</string>
 </resources>
