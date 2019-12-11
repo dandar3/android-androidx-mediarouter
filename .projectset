@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-mediarouter/tags/1.0.0,androidx-mediarouter,2001dd295c1c001a1c1adcd5a33d1f83;https://github.com/dandar3/android-androidx-mediarouter;https://github.com/dandar3/android-androidx-mediarouter;branches;tags;trunk;true;1f7e409d-08b3-0052-4e4e-ce57b7db7bff;https://github.com/dandar3/android-androidx-mediarouter;;false;;;0"/>
+</provider>
+</psf>
